@@ -50,6 +50,6 @@ Done -> Closed, Open.
 
 Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
-[bug_workflow](https://github.com/SSitkarev/ci-01-intro/workflows/bug_workflow.xml)
+[bug_workflow](https://github.com/SSitkarev/ci-01-intro/blob/main/workflows/bug_workflow.xml)
 
-[other_workflow](https://github.com/SSitkarev/ci-01-intro/workflows/other_workflow.xml)
+[other_workflow](https://github.com/SSitkarev/ci-01-intro/blob/main/workflows/other_workflow.xml)
